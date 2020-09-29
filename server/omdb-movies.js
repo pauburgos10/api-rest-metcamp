@@ -1,4 +1,4 @@
-// obtenido a partir de la API omdb con el siguiente query link http://www.omdbapi.com/?apikey=<YOUR_KEY>=woman&type=movie&page=1
+// obtenido a partir de la API omdb con el siguiente query link http://www.omdbapi.com/?apikey=<YOUR_KEY>&t=woman&type=movie&page=1
 module.exports = {
   movies : {
     "Search": [
